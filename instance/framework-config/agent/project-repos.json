@@ -189,6 +189,10 @@
     "url": "https://github.com/platex-rehor-bot/sources-ui.git",
     "upstream": "https://github.com/RedHatInsights/sources-ui.git"
   },
+  "uhc-gateway": {
+    "url": "https://github.com/platex-rehor-bot/uhc-gateway.git",
+    "upstream": "https://github.com/service/uhc-gateway.git"
+  },
   "scalprum/scaffolding": {
     "url": "https://github.com/platex-rehor-bot/scaffolding.git",
     "upstream": "https://github.com/scalprum/scaffolding.git"
